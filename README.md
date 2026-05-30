@@ -8,7 +8,7 @@
 # Aim:
  To implement a C program that validates a user-entered date using a function without parameters and without return value, ensuring the correctness of day, month, year, and leap year conditions.
 # Algorithm:
-### Step 1:
+### Step 1: 
   Start
 ### Step 2: 
   Include the standard input-output library: #include<stdio.h>.
